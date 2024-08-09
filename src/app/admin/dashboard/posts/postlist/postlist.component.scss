@@ -1,0 +1,15 @@
+:host {
+    margin-top: 1rem;     //It means 16px or 1 times the root font-size
+    display: block;
+}
+.title {
+    font-weight: 480;
+    font-size: 140%;
+}
+.content {
+    font-weight: 500;
+}
+.date {
+    margin-top: 11px;
+    font-weight: 500;
+}
